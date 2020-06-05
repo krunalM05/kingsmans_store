@@ -57,9 +57,3 @@ ____________________________________________SETUP_______________________________
 5.) Open the www folder in the Wampp folder. Copy paste the folder kingsmans_store.
 6.) Open the browser (chrome), type localhost/kingsmans_store and you should see the index page of the website.
 
-*******************************************************************************************************************************************
-CONTACT: vtc-support@internshala.com
-WEBSITE: www.vtc.internshala.com
-
-*******************************************************************************************************************************************
-
